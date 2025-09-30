@@ -1,16 +1,18 @@
-# fullstackopen - Dante Reggiani
+# 🚀 fullstackopen - Dante Reggiani
 
-¡Hola! Soy Dante, estudiante de informática en la UNLP y este es mi repositorio para seguir el curso **Full Stack Open**.
+Soy **Dante**. Este es mi espacio para seguir y practicar todo lo que aprendo en el curso **Full Stack Open**.  
 
-## Sobre mí
-- Estudiante de informática en la UNLP.
-- Apasionado por el desarrollo web y tecnologías modernas.
-- Me gusta mantener mis proyectos organizados y documentados.
+---
 
-## Contenido
+## 💡 Sobre mí
+- 👨‍🎓 Estudiante de _informática_ en la **UNLP**.
+- 👨‍💻 Apasionado por **nuevas tecnologías**. 
+- 🎯 Mi meta: **aprender** a crear aplicaciones completas.
+
+## 📚 Contenido
 Cada carpeta corresponde a un tema del curso.
 
-## Contacto
-- GitHub: [idanter](https://github.com/idanter)
+## 📬 Contacto
+- [github](https://github.com/idanter)
 - Email: danterh05@gmail.com
-- Instagram: [dantereggiani](https://instagram.com/dantereggiani)
+- [instagram](https://instagram.com/dantereggiani)
