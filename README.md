@@ -1,6 +1,6 @@
 # fullstackopen - Dante Reggiani
 
-¡Hola! Soy Dante, estudiante de informática en la UNLP y este es mi repositorio para seguir el curso **Fullstack Open**.
+¡Hola! Soy Dante, estudiante de informática en la UNLP y este es mi repositorio para seguir el curso **Full Stack Open**.
 
 ## Sobre mí
 - Estudiante de informática en la UNLP.
