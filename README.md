@@ -13,6 +13,6 @@ Soy **Dante**. Este es mi espacio para seguir y practicar todo lo que aprendo en
 Cada carpeta corresponde a un tema del curso.
 
 ## 📬 Contacto
-- [github](https://github.com/idanter)
 - Email: danterh05@gmail.com
+- [github](https://github.com/idanter)
 - [instagram](https://instagram.com/dantereggiani)
